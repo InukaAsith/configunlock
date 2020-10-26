@@ -29,6 +29,6 @@ Simply do:
 
 Place your encrypted `.tut` or `.tmt` file(s) in the same directory as `decrypt.py`, then do:
 
-    python3 unlock.py <file location>
+    python3 unlock.pyc <file location>
 
 ...and let the magic happen!
